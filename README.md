@@ -5,6 +5,6 @@
 ### 安装
 
 ```javascript
-npm install -g future-tool
+npm install -g vue-future
 ```
 
