@@ -1,7 +1,7 @@
 {
   "name": "vue-future",
   "version": "1.0.0",
-  "description": "",
+  "description": "创建简单的脚手架",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,7 +20,6 @@
     "download-git-repo": "^3.0.2",
     "figlet": "^1.6.0",
     "fs-extra": "^11.1.1",
-    "handlebars": "^4.7.7",
     "inquirer": "^8.2.0",
     "ora": "^5.4.0"
   }
