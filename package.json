@@ -1,6 +1,6 @@
 {
   "name": "vue-future",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "创建简单的脚手架",
   "main": "index.js",
   "scripts": {
